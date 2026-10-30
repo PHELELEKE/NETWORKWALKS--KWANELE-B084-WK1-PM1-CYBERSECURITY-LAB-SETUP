@@ -76,5 +76,5 @@ A virtual cybersecurity lab built with **VirtualBox** and **Kali Linux** for my 
 
 ## 👤 Author
 
-**Phelele**, Ethical Hacking Certificate lab project
-GitHub: [(https://github.com/PHELELEKE/NETWORKWALKS--EMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP)] · LinkedIn: [your LinkedIn link]
+**Phelele kwanele**, Ethical Hacking Certificate lab project
+GitHub: [(https://github.com/PHELELEKE/NETWORKWALKS--EMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP)] · LinkedIn:(https://lnkd.in/p/dba3vkSH)
